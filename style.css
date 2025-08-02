@@ -1,0 +1,76 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #fff;
+  color: #000;
+}
+
+.hero {
+  padding: 80px 20px;
+  text-align: center;
+  background: linear-gradient(to right, #00629B, #182B49);
+  color: white;
+}
+
+.hero h1 {
+  font-weight: 400;
+}
+
+h1 {
+  font-size: 5rem;
+}
+
+h2 {
+  font-size: 3rem;
+}
+
+.section-title {
+  font-weight: 600;
+  margin-top: 60px;
+  margin-bottom: 20px;
+}
+
+.section-content {
+  padding: 20px 0;
+}
+
+.resume-entry {
+  margin-bottom: 20px;
+}
+
+.footer {
+  padding: 30px 0;
+  text-align: center;
+  font-size: 14px;
+  color: #888;
+}
+
+.btn-custom {
+  background-color: #FFCD00;
+  color: #000;
+  border: none;
+}
+
+.btn-custom:hover {
+  background-color: #C69214;
+}
+
+h3 {
+  font-weight: bold;
+}
+
+
+.experience img {
+  max-height: 350px;
+  object-fit: cover;
+  margin-left: -12px;
+}
+
+.experience h3 {
+  font-weight: 600;
+  margin-top: 15px;
+}
+
+.experience h5 {
+  font-weight: 400;
+  margin-bottom: 15px;
+}
